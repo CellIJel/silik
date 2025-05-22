@@ -1,0 +1,14 @@
+{
+  "name": "silly-exchange-discord-bot",
+  "version": "1.0.0",
+  "description": "monitoring sillyexchange price changes",
+  "main": "discord-bot.js",
+  "scripts": {
+    "start": "node discord-bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1",
+    "node-fetch": "^2.7.0"
+  }
+} 
